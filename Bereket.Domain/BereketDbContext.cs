@@ -28,7 +28,7 @@ namespace Bereket.Domain
         protected override void OnConfiguring(DbContextOptionsBuilder dbContextOptionsBuilder){
             if(!dbContextOptionsBuilder.IsConfigured)
             {
-                dbContextOptionsBuilder.UseNpgsql("");
+                dbContextOptionsBuilder.UseNpgsql(BereketDbContextFactory.ConnectionString);
             }
             base.OnConfiguring(dbContextOptionsBuilder);
         }

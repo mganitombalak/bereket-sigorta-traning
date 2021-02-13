@@ -10,7 +10,6 @@
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.csprojAssemblyReference.cache
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.AssemblyInfoInputs.cache
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.AssemblyInfo.cs
@@ -26,3 +25,17 @@
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/ref/Bereket.Api.dll
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.pdb
 /Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.genruntimeconfig.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/Debug/net5.0/Bereket.Api.csprojAssemblyReference.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Npgsql.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Bereket.Repository.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Bereket.Domain.pdb
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/bin/Debug/net5.0/Bereket.Repository.pdb

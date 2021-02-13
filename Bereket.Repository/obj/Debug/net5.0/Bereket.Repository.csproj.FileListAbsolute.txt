@@ -1,0 +1,15 @@
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/Bereket.Repository.deps.json
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/Bereket.Repository.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/ref/Bereket.Repository.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/Bereket.Repository.pdb
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/bin/Debug/net5.0/Bereket.Domain.pdb
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.csprojAssemblyReference.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.AssemblyInfoInputs.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.AssemblyInfo.cs
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.csproj.CoreCompileInputs.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.csproj.CopyComplete
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/ref/Bereket.Repository.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Repository/obj/Debug/net5.0/Bereket.Repository.pdb

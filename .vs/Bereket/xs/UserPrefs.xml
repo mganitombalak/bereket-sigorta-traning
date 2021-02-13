@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{EE7F0854-2C17-4226-A3FF-F992108A7774}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bereket.Domain/Entity/Product.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bereket.Api/Program.cs">
     <Files>
-      <File FileName="Bereket.Domain/Entity/Product.cs" Line="6" Column="11" />
+      <File FileName="Bereket.Api/Startup.cs" Line="33" Column="10" />
+      <File FileName="Bereket.Api/Program.cs" Line="12" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bereket" expanded="True">
-            <Node name="Bereket.Domain" expanded="True">
-              <Node name="Entity" expanded="True">
-                <Node name="Product.cs" selected="True" />
-              </Node>
+            <Node name="Bereket.Api" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
