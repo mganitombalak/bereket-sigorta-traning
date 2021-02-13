@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "txNnoQPCNxbiZ6R2GDmhuktp75p7S/1/jM54wOQ0v286FxH10azQ1ANRyuRgpITi+7C3Oae39+S5+rEyTuDWEA==",
+  "success": true,
+  "projectFilePath": "/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/Bereket.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/mganitombalak/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
