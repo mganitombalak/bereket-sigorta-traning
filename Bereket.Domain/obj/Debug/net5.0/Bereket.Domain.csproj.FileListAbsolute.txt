@@ -1,0 +1,15 @@
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.csprojAssemblyReference.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.AssemblyInfoInputs.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.AssemblyInfo.cs
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.csproj.CoreCompileInputs.cache
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/Bereket.Domain.deps.json
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/Bereket.Domain.runtimeconfig.json
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/Bereket.Domain.runtimeconfig.dev.json
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/ref/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/bin/Debug/net5.0/Bereket.Domain.pdb
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/ref/Bereket.Domain.dll
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.pdb
+/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Domain/obj/Debug/net5.0/Bereket.Domain.genruntimeconfig.cache
