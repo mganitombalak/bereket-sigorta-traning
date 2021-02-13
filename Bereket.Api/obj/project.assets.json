@@ -205,7 +205,7 @@
       "outputPath": "/Users/mganitombalak/github/bereket-sigorta-traning/Bereket.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mganitombalak/.config/NuGet/NuGet.Config"
+        "/Users/mganitombalak/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
